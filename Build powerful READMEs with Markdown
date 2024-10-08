@@ -1,0 +1,92 @@
+# Project Title
+
+<!-- Add a brief description of your project -->
+A concise summary of what the project is about, its purpose, and what it aims to solve. 
+
+## Table of Contents
+
+<!-- Provide a table of contents to help users navigate the README -->
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## About
+
+<!-- Explain the problem the project solves, its motivation, and technology stack -->
+Describe the purpose of the project. What problem does it address? What technologies does it use (React, Node.js, etc.)?
+
+## Features
+
+<!-- List key features of the project -->
+- User authentication
+- Real-time data synchronization
+- Responsive UI
+- Virtual gallery with 3D tours
+- Customizable filtering options 
+
+## Installation
+
+<!-- Provide step-by-step instructions to set up the project locally -->
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/username/repository-name.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd repository-name
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the application:
+    ```bash
+    npm start
+    ```
+
+---
+
+## Usage
+
+<!-- Explain how to use the project once installed -->
+After installation, visit `http://localhost:3000` to view the app.
+
+- **Authentication**: Sign in or sign up to create a new account.
+- **Embroidery Gallery**: Browse through the categories, add items to the cart, and make purchases.
+- **Cart Functionality**: Click the cart icon on the top left to manage your orders.
+
+---
+
+## Screenshots
+
+<!-- Add relevant screenshots or GIFs to showcase your project -->
+Here are some snapshots of the project in action:
+
+![Home Page](./screenshots/homepage.png)
+![Gallery Page](./screenshots/gallery.png)
+
+---
+
+## Contributing
+
+<!-- Include guidelines for contributing to the project -->
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m "Add some feature"`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+---
+
+## License
+
+<!-- State the license under which the project is distributed -->
+Distributed under the MIT License. See `LICENSE` for more information.
